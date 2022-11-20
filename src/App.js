@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import './App.css';
-import List from './components/List'
-import Form from './components/Form'
+import List from './mytodo/List'
+import Form from './mytodo/Form'
 
 
 const App=()=>{
